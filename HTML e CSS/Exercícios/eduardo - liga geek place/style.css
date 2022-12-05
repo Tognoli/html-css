@@ -1,0 +1,83 @@
+@charset UTF-8;
+
+body {
+    background-image: linear-gradient(to right, #3D3986 90%, #3966BF, #3B82BA , #C87A38, #603F36);
+}
+
+main {
+background-color: white;
+width: 600px;
+padding: 10px;
+box-shadow: 5px 7px 12px #3d39869f;
+border-radius: 8px;
+margin: auto;
+}
+
+header {
+    background-color:#3D3986;
+    width: auto;
+    padding: 10px;
+    box-shadow: 5px 7px 12px #3d39869f;
+    border-radius: 8px;
+    margin: auto;
+}
+
+aside {
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    box-shadow: 5px 7px 12px #3d39869f;
+    border-radius: 8px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #3D3986;
+    text-shadow: 1px 1px 2px #3d39868c;
+}
+h2 {
+    text-align: center;
+    color: black;
+}
+
+h3 {
+    text-align: center;
+    color: #C87A38;
+    text-shadow: 1px 1px 2px #c879386c;
+    font-size: 25px;
+}
+
+p {
+    text-align: center;
+    color: black;
+}
+ol {
+    color: black;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+li {
+    list-style: none; 
+    margin: 10px;
+    display: inline;
+    background-color: #3D3986;
+    box-shadow: 2px 2px 4px rgba(47, 85, 160, 0.671);
+    color: white;
+    font-size: 25px;
+}
+li a {
+    padding: 5px 10px; 
+    margin:0; 
+    background-color: #3B82BA;
+    color:white;
+    border-radius:5px;
+}
+li a:hover {
+    background: #CCC;
+    color: #000; 
+    border-color: #000;
+}

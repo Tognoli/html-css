@@ -1,0 +1,38 @@
+@charset UTF-8;
+h1 {
+    text-align: center;
+    color:whitesmoke;
+}
+body {
+    background-color:black;
+}
+#imgvideo1 {
+    position: absolute; 
+    left: 475px; 
+    top: 100px; 
+}
+#imgvideo2 {
+    position: absolute; 
+    left: 675px; 
+    top: 100px;
+}
+#imgvideo3 {
+    position: absolute; 
+    left: 475px; 
+    top: 200px;
+}
+#imgvideo4 {
+    position: absolute; 
+    left: 675px; 
+    top: 200px;
+}
+#vprincipal {
+    position: absolute; 
+    left: 400px; 
+    top: 100px;
+}
+#voltar {
+    position: absolute; 
+    left: 630px; 
+    top: 450px;
+}
